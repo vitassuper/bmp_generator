@@ -1,5 +1,4 @@
-#include <stdint.h>
-#include <stdio.h>
+#include "bmp_generator.h"
 
 #define FILE_HEADER_SIZE 14
 #define DIB_HEADER_SIZE 12
